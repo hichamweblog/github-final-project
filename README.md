@@ -9,7 +9,7 @@ To use the Simple Interest Calculator, follow these steps:
 1. **Clone the Repository:**
    ```bash
    git clone https://github.com/hichamweblog/github-final-project.git
-   cd simple-interest-calculator
+   cd github-final-project
    ```
 2. **Run the Script:**
    ```bash
