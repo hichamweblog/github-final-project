@@ -12,9 +12,9 @@ To use the Simple Interest Calculator, follow these steps:
    cd simple-interest-calculator
    ```
 2. **Run the Script:**
-  ```bash
-  sh simple-interest.sh
-  ```
+   ```bash
+   sh simple-interest.sh
+   ```
 3. **Input Parameters:**
 Enter the principal amount.
 Enter the annual interest rate.
